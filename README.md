@@ -11,6 +11,8 @@ Detta är en konsolbaserad applikation där man kan hyra bilar. Användare kan h
 1. Klona detta repsitory:
     https://github.com/isaclarsen/Avancerad-JAVA24-Isac-Larsen-Uppgift1
 2. Navigera till projektmappen:
+    cd Avancerad-JAVA24-Isac-Larsen-Uppgift1
     cd src
 3. Kör applikationen:
+    javac main.java
     java Main
